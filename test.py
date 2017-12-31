@@ -29,3 +29,8 @@ def d():
 def e():
     print('hello')
     return None
+
+
+def f():
+    print('nihama')
+    return ''
