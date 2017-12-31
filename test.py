@@ -13,5 +13,8 @@ def b():
     return
 
 def c():
+    '''
+    c함수의 주석을 달다
+    '''
     print('hello')
     return
