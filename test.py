@@ -12,3 +12,7 @@ def b():
     '''
     print('print')
     return
+
+def c():
+    print('hello')
+    return
