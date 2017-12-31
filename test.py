@@ -35,5 +35,8 @@ def e():
 
 
 def f():
+    '''
+    f함수의 주석을 달다
+    '''
     print('nihama')
     return ''
