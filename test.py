@@ -27,5 +27,8 @@ def d():
     return
 
 def e():
+    '''
+    e함수의 주석을 달다
+    '''
     print('hello')
     return None
