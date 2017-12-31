@@ -18,3 +18,7 @@ def c():
     '''
     print('hello')
     return
+
+def d():
+    print('hi')
+    return
