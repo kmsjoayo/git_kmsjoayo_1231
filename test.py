@@ -20,5 +20,8 @@ def c():
     return
 
 def d():
+    '''
+    d 함수의 주석을 달다
+    '''
     print('hi')
     return
