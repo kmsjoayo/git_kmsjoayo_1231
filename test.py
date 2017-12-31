@@ -8,7 +8,6 @@ def a():
 def b():
     '''
     b는 두번째 테스트 함수입니다
-    ''' 
     '''
     print('print')
     return
