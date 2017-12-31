@@ -25,3 +25,7 @@ def d():
     '''
     print('hi')
     return
+
+def e():
+    print('hello')
+    return None
